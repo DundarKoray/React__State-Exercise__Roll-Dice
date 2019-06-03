@@ -8,7 +8,7 @@
   pointer-events: none;
 }
 
-.dices {
+.dice {
   display: flex;
   justify-content: center;
   margin: 0 auto;
