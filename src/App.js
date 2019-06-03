@@ -1,6 +1,6 @@
 import React, { Component} from 'react';
 import './App.css';
-import RollDice from './components/RollDice'
+import RollDice from './RollDice'
 
 
 class App extends Component {
